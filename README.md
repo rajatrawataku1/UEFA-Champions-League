@@ -1,6 +1,8 @@
 # UEFA-Champions-League
 Grouping 32 Teams in 8 Groups with various constraints.
 
+> Follow the link for illustration : https://rajatrawataku1.github.io/UEFA-Champions-League/
+
 ## Problem Statement : 
    Our goal is to create a program / website application which randomly generates 8 groups with 4 teams each.
 
